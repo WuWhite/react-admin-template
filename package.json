@@ -34,6 +34,7 @@
     "braft-editor": "^2.2.9",
     "classnames": "^2.2.6",
     "dva": "^2.4.1",
+    "express": "^4.16.4",
     "gg-editor": "^2.0.2",
     "js-cookie": "^2.2.0",
     "lodash": "^4.17.10",
@@ -58,6 +59,7 @@
     "react-virtualized": "^9.21.0",
     "rollbar": "^2.4.4",
     "screenfull": "^4.2.0",
+    "serverless-http": "^2.0.1",
     "store": "^2.0.12",
     "uuid": "^3.3.2",
     "xlsx": "^0.13.5"
@@ -90,6 +92,7 @@
     "jest": "^24.1.0",
     "lint-staged": "^8.1.4",
     "mockjs": "^1.0.1-beta3",
+    "netlify-lambda": "^1.4.5",
     "prettier": "^1.16.4",
     "rimraf": "^2.6.2",
     "stylelint": "^9.4.0",
